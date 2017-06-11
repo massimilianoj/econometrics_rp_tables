@@ -1,0 +1,8 @@
+---
+title: "Title"
+author: "Your name^[affiliation]"
+date: '`r format(Sys.time(), "%d %m, %Y")`'
+output: pdf_document
+fontsize: 12pt
+classoption: a4paper
+---
